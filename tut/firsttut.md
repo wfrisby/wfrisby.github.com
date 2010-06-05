@@ -8,8 +8,9 @@ Introduction
 
 Tutorial on getting started with AVR microcontrollers.
 
-`
+{% highlight c %}
 int main(void) {
 	return 0;
 }
-`
+{% endhighlight %}
+
