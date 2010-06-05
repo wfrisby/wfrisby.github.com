@@ -13,9 +13,14 @@
       <div id="header" class="basic">
       </div>
       <div id="content" class="site">
-        {{ post.content }}
+        {{ content }}
       </div>
       <div class="push"></div>
+      {% for post in site.posts limit:5 %}
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.content }}
+      <em> Posted on {{ post.date | date_to_long_string }}.</em>
+      {% endfor %}	
     </div>
     <div id="footer">
       <div class="site">
