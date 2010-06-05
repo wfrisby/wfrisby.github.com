@@ -1,7 +1,7 @@
-___
+---
 title: Home
 layout: wikistyle
-___
+---
 
 Welcome
 =======
