@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: wikistyle
 title: Basic AVR tutorial
 ---
 
