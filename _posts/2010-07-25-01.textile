@@ -1,0 +1,26 @@
+---
+title: What I want for Christmas v0.1...
+layout: post
+---
+
+h3. I know this is a bit early but...
+
+I would like to get a head start on listing items that I would like as Christmas gifts. I will update this post as I find more items of interest.
+
+h3. Electronics
+
+*"Beagle board":http://www.beagleboard.org* is a simple fan less computer that is only $149 bucks. This little thing comes with a OMAP3530 processor with a ARM Cortex-A8 processor, a DSP processor,  HDMI output, and USBports for power and other peripherals. There are some 2010 *"Google Summer of Code":http://beagleboard.org/gsoc* projects that will add even more flexibility and possibilities in future projects I could see myself doing some *"nectarlicious":http://www.flickr.com/photos/mary_faith/4561847197/* projects with the beagle board.
+   
+*"Bus Pirate":http://code.google.com/p/the-bus-pirate/* is a universal bus interface that can talk to many chips using only a serial terminal. It can also be used as a chip programmer and for debugging other chips/protocols. All in all, it's a neat little tool and it's only $30 from *"Adafruit":http://www.adafruit.com/blog/2010/03/08/now-in-the-adafruit-store-the-bus-pirate-v3a/*. Dont forget the wire probes can also be purchased *"here":http://www.adafruit.com/index.php?main_page=product_info&products_id=238* 
+
+And remember this is not a Pirate Bus: 
+p=. "!http://farm4.static.flickr.com/3215/2668206354_fd8ee8e4b8.jpg!"
+
+But a Bus Pirate device:
+p=. "!http://dangerousprototypes.com/wp-content/media/2010/07/bpv3b_LRG-W490.jpg!"
+
+h3. Books
+
+h3. Music
+
+
