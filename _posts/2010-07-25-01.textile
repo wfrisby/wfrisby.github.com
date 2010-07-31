@@ -11,16 +11,22 @@ h3. Electronics
 
 *"Beagle board":http://www.beagleboard.org* is a simple fan less computer that is only $149 bucks. This little thing comes with a OMAP3530 processor with a ARM Cortex-A8 processor, a DSP processor,  HDMI output, and USBports for power and other peripherals. There are some 2010 *"Google Summer of Code":http://beagleboard.org/gsoc* projects that will add even more flexibility and possibilities in future projects I could see myself doing some *"nectarlicious":http://www.flickr.com/photos/mary_faith/4561847197/* projects with the beagle board.
    
-*"Bus Pirate":http://code.google.com/p/the-bus-pirate/* is a universal bus interface that can talk to many chips using only a serial terminal. It can also be used as a chip programmer and for debugging other chips/protocols. All in all, it's a neat little tool and it's only $30 from *"Adafruit":http://www.adafruit.com/blog/2010/03/08/now-in-the-adafruit-store-the-bus-pirate-v3a/*. Dont forget the wire probes can also be purchased *"here":http://www.adafruit.com/index.php?main_page=product_info&products_id=238* 
+*"Bus Pirate":http://code.google.com/p/the-bus-pirate/* is a universal bus interface that can talk to many chips using only a serial terminal. It can also be used as a chip programmer and for debugging other chips/protocols. All in all, it's a neat little tool and it's only $30 from *"Adafruit":http://www.adafruit.com/blog/2010/03/08/now-in-the-adafruit-store-the-bus-pirate-v3a/*. Dont forget the wire probes which can be purchased *"here":http://www.adafruit.com/index.php?main_page=product_info&products_id=238* 
 
 And remember this is not a Pirate Bus: 
-p=. "!http://farm4.static.flickr.com/3215/2668206354_fd8ee8e4b8.jpg!"
+!http://farm4.static.flickr.com/3215/2668206354_fd8ee8e4b8.jpg!
 
 But a Bus Pirate device:
-p=. "!http://dangerousprototypes.com/wp-content/media/2010/07/bpv3b_LRG-W490.jpg!"
+!http://dangerousprototypes.com/wp-content/media/2010/07/bpv3b_LRG-W490.jpg!
 
 h3. Books
+*"The Art of Computer Programming, Volumes 1-4":http://www.amazon.com/Art-Computer-Programming-Volumes-Boxed/dp/0201485419/ref=pd_sim_b_4* These books are the refrences that all other algorithmic books refer to. It would be nice to have a copy of these.
+
+*"Hackers Delight":http://www.amazon.com/Hackers-Delight-Henry-S-Warren/dp/0201914654* is a book about using boolean algebra to its highest level of ecstasy.
+
+!http://images.barnesandnoble.com/images/10730000/10736371.jpg!:http://www.hackersdelight.org/
 
 h3. Music
 
+*Still to come...
 
